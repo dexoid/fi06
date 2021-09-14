@@ -1,8 +1,0 @@
-MIDlet-1: max,/Images/max.png,JavaGT.JavaGT
-MIDlet-Jar-Size: 253725
-MIDlet-Jar-URL: max.jar
-MIDlet-Name: maxima
-MIDlet-Vendor: Telemaxima
-MIDlet-Version: 1.34.0
-MicroEdition-Configuration: CLDC-1.1
-MicroEdition-Profile: MIDP-2.0
